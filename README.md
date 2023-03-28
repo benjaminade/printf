@@ -1,1 +1,1 @@
-group project pf
+This is a group project that deals in printf tasks.
